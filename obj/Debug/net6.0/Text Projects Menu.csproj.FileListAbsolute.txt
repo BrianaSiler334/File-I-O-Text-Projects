@@ -1,0 +1,15 @@
+C:\Users\BSiler\source\repos\Text Projects Menu\bin\Debug\net6.0\Text Projects Menu.exe
+C:\Users\BSiler\source\repos\Text Projects Menu\bin\Debug\net6.0\Text Projects Menu.deps.json
+C:\Users\BSiler\source\repos\Text Projects Menu\bin\Debug\net6.0\Text Projects Menu.runtimeconfig.json
+C:\Users\BSiler\source\repos\Text Projects Menu\bin\Debug\net6.0\Text Projects Menu.dll
+C:\Users\BSiler\source\repos\Text Projects Menu\bin\Debug\net6.0\Text Projects Menu.pdb
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\Text Projects Menu.csproj.AssemblyReference.cache
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\Text Projects Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\Text Projects Menu.AssemblyInfoInputs.cache
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\Text Projects Menu.AssemblyInfo.cs
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\Text Projects Menu.csproj.CoreCompileInputs.cache
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\Text Projects Menu.dll
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\refint\Text Projects Menu.dll
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\Text Projects Menu.pdb
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\Text Projects Menu.genruntimeconfig.cache
+C:\Users\BSiler\source\repos\Text Projects Menu\obj\Debug\net6.0\ref\Text Projects Menu.dll
